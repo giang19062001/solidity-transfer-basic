@@ -176,19 +176,19 @@
 			]
 		},
 		"CrowdFunding.sol": {
-			"keccak256": "0x802fa9f9a589c8c6c2f8bd6f4329d2a48b8354dede5f6a29ebbb82fce94bc239",
+			"keccak256": "0x84a4ff0639532db0b62f014781e2a7e022edc13b18e7bc6e1c262787f7ec9073",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3a5026e6af7f875f06712f74333f70023199172726708a1710f2dfb980865ade",
-				"dweb:/ipfs/QmTcDE9pMW1tNDZLWocQLMt4KQVLYgc4xdbnFWaqW9p63t"
+				"bzz-raw://2ca0aa480204b5939de31f996b3ab20b8beb8c6128d200caea0d107246f0289b",
+				"dweb:/ipfs/QmPznyMzEyeiTDdNK6LBwVDRZdQT73ZZhyypR1Rvt4CLZv"
 			]
 		},
 		"PriceConverter.sol": {
-			"keccak256": "0x0216d089fc52b4f83d926259403078e57c7cce5777ed2533f8d4a606c81a85dc",
+			"keccak256": "0x4814c34945457e122a2638ee38f65b34b63f5502c4ecc08120abe65f9366b6e8",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://773ef1bebdcf043d0b2639f02b5d55823041bdfa84f0b8ba60a5226002db0182",
-				"dweb:/ipfs/QmdfZnix2GoAwhgSHZVr4Pa7oQvM2ekFjDujm2C8zRJdQ8"
+				"bzz-raw://28026633e4bb788e5d6ebbaf619132636d12113499edde43c9f852e84bd1162b",
+				"dweb:/ipfs/Qma8gNB4DXaCJDTzNjJCYpNsRHCqzBZmupGMHWXEj1QUVE"
 			]
 		}
 	},
